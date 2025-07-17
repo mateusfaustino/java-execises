@@ -150,20 +150,20 @@ Crie um `enum` chamado `Planeta` com os planetas do sistema solar e associe a ca
   No método `main`, imprima todos os planetas e suas gravidades.
 
 ---
+## 📘 14. Enum com Métodos
 
-## 📘 14. Usando Enum em Classe
+Adicione um método ao `enum Planeta` que calcula o peso de um objeto em cada planeta, dado o peso na Terra.
+**Fórmula:** pesoPlaneta = pesoTerra \* gravidadePlaneta / gravidadeTerra
+
+---
+
+## 📘 15. Usando Enum em Classe
 
 Crie um `enum` chamado `StatusPedido` com valores: `PENDENTE`, `PROCESSANDO`, `ENVIADO`, `ENTREGUE`.
 Depois crie uma classe `Pedido` com atributos `id` e `status`. No método `main`, crie um pedido e altere seu status.
 
 ---
 
-## 📘 15. Enum com Métodos
-
-Adicione um método ao `enum Planeta` que calcula o peso de um objeto em cada planeta, dado o peso na Terra.
-**Fórmula:** pesoPlaneta = pesoTerra \* gravidadePlaneta / gravidadeTerra
-
----
 
 ## 📘 16. Iterando sobre Enums
 
