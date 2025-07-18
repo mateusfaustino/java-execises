@@ -163,7 +163,7 @@ Crie um `enum` chamado `StatusPedido` com valores: `PENDENTE`, `PROCESSANDO`, `E
 Depois crie uma classe `Pedido` com atributos `id` e `status`. No método `main`, crie um pedido e altere seu status.
 
 ---
-
+  
 
 ## 📘 16. Iterando sobre Enums
 
